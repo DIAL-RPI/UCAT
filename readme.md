@@ -9,7 +9,7 @@ Adversarial training in unlabeled target domain is a neglected but challenging p
 - pip install imgaug
 
 ## Datasets Folder
-The Datasets Folder is used for the stroage of three datasets (Digits, Office31 and VisDA).
+The Datasets Folder is used for the stroage of the datasets ([MNIST](http://yann.lecun.com/exdb/mnist/), [USPS](https://www.kaggle.com/bistaumanga/usps-dataset), [MNIST-m](https://github.com/VanushVaswani/keras_mnistm/releases/download/1.0/keras_mnistm.pkl.gz), [Office31](https://www.cc.gatech.edu/~judy/domainadapt/#datasets_code) and [VisDA](http://ai.bu.edu/visda-2017/)).
 
 ## Dataloader
 Use prepare_data.py for the Dataloader generator for generating source and target domain dataset and dataloader.
