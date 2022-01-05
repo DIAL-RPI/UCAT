@@ -1,4 +1,4 @@
-#### Source code for Unsupervised Cross-domain Adversarial Training (UCAT) ####
+# Source code for Unsupervised Cross-domain Adversarial Training (UCAT) ####
 1. ./datasets
 ----> Folder for storage datasets.
 
