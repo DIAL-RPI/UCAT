@@ -21,7 +21,7 @@ Use models/model_construct.py for the initialization of the ResNet-50 used as ou
 Main file for implement UCAT_SRDC, the SRDC part is attribute to the original paper.
 Use command line below for training
 ```
-CUDA_VISIBLE_DEVICES=0 python main.py
+python main.py
 ```
 You can choose __trainer_ucat.py__ as training function for UCAT with naive PL or __trainer_ucat_PL.py__ as training function for UCAT with QUA-PL.
 
@@ -37,6 +37,3 @@ Different adversarial attack methods for model robustness evaluation are provide
   year={2020}
 }
 ```
-Pre-print version is available at [arXiv](https://arxiv.org/abs/2011.09563)
-
-## License
