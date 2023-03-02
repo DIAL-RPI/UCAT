@@ -1,7 +1,7 @@
 # Towards Adversarial Robustness in Unlabeled Target Domains
 
 ## Introduction
-Adversarial training in unlabeled target domain is a neglected but challenging problem. In our IEEE TIP [paper](https://ieeexplore.ieee.org/abstract/document/10043655), we propose a new framework of __Unsupervised Cross-domain Adversarial Training (UCAT)__ with the novel __Quantity-Quality Psseudo Labeling__ technique to tackle the above problem by effectively utilizing knowledge from the labeled source domain to enhance the representation learning in the unlabeled target domain.
+Adversarial training in unlabeled target domain is a neglected but challenging problem. In our IEEE TIP [paper](https://ieeexplore.ieee.org/abstract/document/10043655), we propose a new framework of __Unsupervised Cross-domain Adversarial Training (UCAT)__ with the novel __Quantity-Quality Pseudo Labeling (QUAPL)__ technique to tackle the above problem by effectively utilizing knowledge from the labeled source domain to enhance the representation learning in the unlabeled target domain.
 
 ## Requirements
 - set up your environment by anaconda, (**python3.7, torch 1.7.0**)
